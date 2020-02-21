@@ -10,4 +10,3 @@ courses.each do |course|
   puts course.text
 end
 
-
